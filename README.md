@@ -1,9 +1,9 @@
 # real-world-data-analytics
-#🌍 Real-World Data Analytics Projects
+# 🌍 Real-World Data Analytics Projects
 
 ### Welcome to Real-World Data Analytics – a practical, hands-on repository focused on solving real business problems using data. This repo is designed to help you build job-ready data analytics skills through end-to-end projects.
 
-#📊 Business & Data Analytics Projects
+# 📊 Business & Data Analytics Projects
 
 These projects focus on decision-making, storytelling, and insights generation.
 
